@@ -1,0 +1,3 @@
+Running for n = 7
+The given collinearity bound: l = 4
+The given Clique Size Bound: k = 4
